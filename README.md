@@ -16,4 +16,5 @@ feature list
 - [x] ability to change colors
 - [x] fix the order of files displayed
 - [x] choose the order of superposition
+- [ ] add ability to choose less than four channels
 - [ ] generate CSV file saving all the parameters, esp threshold
