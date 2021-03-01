@@ -2,7 +2,7 @@
 This MATLAB app takes microscope images as d0, d1, d2, d3... and overlays them with color customization. 
 
 * **MultiChannelFigureGenerator.mlapp** requires MATLAB 2020b+ 
-* **InstallMCFG_web.exe** does not require a MATLAB license
+* ~~**InstallMCFG_web.exe** does not require a MATLAB license~~ contact me if you need an .exe version generated
 
 ![](Screenshot/Screenshot1.png)
 ![](Screenshot/Screenshot2.png)
@@ -16,5 +16,5 @@ feature list
 - [x] ability to change colors
 - [x] fix the order of files displayed
 - [x] choose the order of superposition
-- [ ] add ability to choose less than four channels
+- [x] add ability to choose less than four channels
 - [ ] generate CSV file saving all the parameters, esp threshold
